@@ -11,7 +11,7 @@ var finalPass = ""
 var CapLetterArray = ("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
 var LowLetterArray = ("abcdefghijklmnopqrstuvwxyz")
 var NumArray = ("1234567890")
-var SpecArray = ("!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~")
+var SpecArray = ("!#$%&'()*+,-./:;<=>?@[\]^_`{|}~")
 
 //Create a "generate password" function and write all the logic within this function
 
